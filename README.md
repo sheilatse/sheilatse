@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img width="700" height="394" alt="isabelle_v2" src="https://github.com/user-attachments/assets/1dc7ed06-ae66-4852-9105-ef5062af7e86">
+</p>
+
 <!--
 **sheilatse/sheilatse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
